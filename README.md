@@ -1,4 +1,4 @@
-# Data-Mining
+# Data-Mining & Sentiment-Analysis
 
 ## Introduciton
 The purpose of this project is to analyze customer sentiment towards products using data mining techniques and sentiment analysis. The project aims to extract meaningful insights from customer reviews and ratings, and use them to improve product recommendations and customer satisfaction.
